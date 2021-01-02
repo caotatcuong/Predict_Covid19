@@ -14,19 +14,31 @@
 
 ---
 
-<h2> 28/12/2020 </h2>
+<h2>28/12/2020</h2>
 
-- Xác định nội dung sẽ thực hiện (sẽ liên quan đến dữ liệu `covid-19`)
+- Xác định nội dung sẽ thực hiện (sẽ liên quan đến dữ liệu `covid-19` của nước Mỹ)
 - Đưa file notebook lên github
 
-<h2> 29/12/2020 </h2>
+<h2>29/12/2020</h2>
 
 - Thu thập dữ liệu thô thông qua API
 - Khám phá dữ liệu 
 - Đặt câu hỏi
 - Xử lý dữ liệu thô để phù hợp với câu hỏi
 
-<h2> 30/12/2020 </h2>
+<h2>30/12/2020</h2>
 
 - Xây dựng pipeline
 - Thử nhiệm huấn luyện mô hình phiên bản đơn giản nhất
+
+<h2>31/12/2020</h2>
+
+- Chỉnh sửa lại cách chia bộ dữ liệu huấn luyện và kiểm tra
+- Nâng cấp, tối ưu pipeline cho quá trình preprocessing
+- Huấn luyện nhiều mô hình đồng thời chọn ra siêu tham số tốt nhất
+- Xây dựng bộ dữ liệu test đối với cả nước Mỹ
+
+---
+
+<h2>02/01/2021</h2>
+
