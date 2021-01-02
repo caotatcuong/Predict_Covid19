@@ -12,7 +12,7 @@
 </p>
 <svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"></svg>
 
-<h2> Contributors & References </h2>
+<h2>Contributors & References</h2>
 
 | STT | Họ và Tên | MSSV |
 |:-:|:-|:-:|
@@ -21,11 +21,14 @@
 
 <a href="workflow.md">Quy trình làm việc nhóm</a>
 
-<h2> Overview </h2>
+<h2>Overview</h2>
 
-Dataset chứa dữ liệu mô tả liên quan đến đại dịch COVID-19
+Dataset chứa dữ liệu mô tả liên quan đến đại dịch COVID-19.  
 
-<h2> Licenses </h2>
+Trong đồ án này, ta sẽ nghiên cứu xem cách mà đại dịch covid ảnh hưởng đến xã hội, cụ thể là nhân tố con người.  
+Cụ thể hơn, nội dung đồ án là quan sát tốc độ lây lan của virus trên quần thể người tại một khu vực cụ thể. Từ đó, ta có thể dự đoán số ca nhiễm trong tương lai gần nhằm giúp cơ quan có thẩm quyền tham khảo để đưa ra những giải pháp phù hợp, kịp thời.
+
+<h2>Licenses</h2>
 
 <p>
 Nguồn cấp dữ liệu thuộc về   
