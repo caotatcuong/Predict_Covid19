@@ -9,7 +9,6 @@
   <a href="https://colab.research.google.com/github/cuong091200/DoAnCuoiKy_KHDL/blob/main/ProjectFinal.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg">
   </a>
-
   <a href="https://github.com/cuong091200/DoAnCuoiKy_KHDL">
     <img src="https://img.shields.io/badge/Github-131313?logo=github&logoColor=white">
   </a>
@@ -197,3 +196,23 @@ Hoàn thành đồ án.
 
 - Hoàn thành đồ án.
 - Sẵn sàng mở issues để cho phép các nhóm khác nhận xét.
+
+---
+
+<h2>15/01/2021</h2>
+
+<h3>Mục tiêu</h3>
+
+- Hoàn thành đồ án dựa trên đóng góp của nhóm khác.
+- Thêm hệ số tương quan để giải thích cho việc lựa chọn thuộc tính cho mô hình.
+- Biểu diễn cụ thể hơn về dữ liệu và làm mượt dữ liệu.
+
+<h3>Công việc</h3>
+
+- Cường: Kiểm tra lại mô hình, nhận xét thêm (về cả hệ số tương quan).
+- Duy: Thay biểu đồ `boxplot` bằng `scatter` để biểu diễn dữ liệu huấn luyện trực quan hơn, cập nhật nội dung file quy trình làm việc và file báo cáo.
+
+<h3>Kết quả</h3>
+
+Hoàn thành đồ án.
+

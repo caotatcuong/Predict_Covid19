@@ -14,10 +14,10 @@
 
 <h2>Contributors & References</h2>
 
-| STT | Họ và Tên | MSSV |
-|:-:|:-|:-:|
-| Nhóm | Cao Tất Cường | 18120296 | 
-| 19 | Hà Văn Duy | 18120339 |
+| STT | Họ và Tên | MSSV | Gid
+|:-:|:-|:-:|:-:
+| Nhóm | Cao Tất Cường | 18120296 | [cuong091200](https://github.com/cuong091200)
+| 19 | Hà Văn Duy | 18120339 | [viplazylmht](https://github.com/viplazylmht)
 
 <a href="workflow.md">Quy trình làm việc nhóm</a>
 
